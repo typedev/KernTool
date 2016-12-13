@@ -67,7 +67,7 @@ Left = -10; Shift+Left = -5; Alt+Left = -1
 Right = +10; Shift+Right = +5; Alt+Right = +1
 ```
 
-To multiply kerning press **0 .. 9** keys after **Left/Right** Arrow. For example, pressing **Left** Arrow sets your kerning value to **-10**, and if you press **6** after that you change kerning to **-60** (-10*6=-60). If you press **0** you multiply kerning by **10**.
+To multiply kerning press **0 .. 9** keys after **Left/Right** Arrow. For example, pressing **Left** Arrow sets your kerning value to **-10**, and if you press **6** after that you change kerning to **-60** (-10x6=-60). If you press **0** you multiply kerning by **10**.
 
 
 In the bottom of the window there’s a metric scale, where every glyph is marked with a square of a certain color:
