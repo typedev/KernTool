@@ -5,7 +5,7 @@
 *These extensions are still under development, and will get updates and new options in the future*.
 *Several new extensions are to be added soon, which will allow changing the contents of the kerning groups, as well as performing various kerning transformations*.
 
-
+![](https://github.com/typedev/KernTool/blob/master/img/kerntool.png)
 
 
 ## Kern Observer
